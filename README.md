@@ -23,7 +23,7 @@ Projet académique ambitieux : le jeu Tron avec intelligence artificielle intég
 ## 🛠️ Technologies & Langages
 
 ```
-🔧 Langages       : Java, C, JavaScript
+🔧 Langages       : Java, C, JavaScript, typescript, SQL, Bash, PHP, python
 📱 Mobile         : Développement d'applications
 🤖 IA             : Intelligence artificielle dans les jeux
 🎯 Spécialités    : Algorithmique, développement de jeux, bots
@@ -39,24 +39,13 @@ Projet académique ambitieux : le jeu Tron avec intelligence artificielle intég
 
 </div>
 
-## 🌟 Ce qui me motive
-
-- **Innovation** : Toujours à la recherche de nouvelles technologies
-- **Clean Code** : J'écris du code propre et maintenable
-- **Apprentissage** : Étudiant curieux qui aime relever de nouveaux défis
-- **Projets variés** : Des bots aux jeux, j'aime explorer différents domaines
-
 ## 📫 Contact
 
-🎓 **École** : ENSICAEN  
+🎓 **École** : ENSICAEN
 💼 **Statut** : Étudiant en ingénierie informatique  
 🌍 **Localisation** : France  
 
 ---
-
-<div align="center">
-  <i>💡 "Le code, c'est comme l'humour. Quand on doit l'expliquer, c'est qu'il n'est pas bon." - Cory House</i>
-</div>
 
 <div align="center">
 
